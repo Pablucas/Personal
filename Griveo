@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T22:58:12.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Jl81ws8pf6qv3YqgNndJ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T23:07:23.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="r2L1PHgwhu_60mYUJEwj" version="13.7.9" type="github">
   <diagram id="YpWMN58k7AVJZjL-dOFT" name="Page-1">
-    <mxGraphModel dx="1673" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wbwm8YFNcrymPZDYRrAx-1" value="Comedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="360" height="280" as="geometry" />
+          <mxGeometry x="670" y="380" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="wbwm8YFNcrymPZDYRrAx-2" value="Comedor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-40" width="280" height="420" as="geometry" />
+        <mxCell id="wbwm8YFNcrymPZDYRrAx-2" value="Living" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-40" width="280" height="420" as="geometry" />
         </mxCell>
         <mxCell id="wbwm8YFNcrymPZDYRrAx-3" value="Escalera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-40" width="80" height="420" as="geometry" />
+          <mxGeometry x="520" y="-40" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wbwm8YFNcrymPZDYRrAx-4" value="Escalera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="150" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
