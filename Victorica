@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T20:24:01.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="13.10.1" etag="MXiSj9OwilH-gMFZg-41" type="github"><diagram id="LxV9aRTExk1Ln-IsxZXO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-20T20:53:56.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xvX4aNPrq4XBSDW-h-Er" version="13.10.1" type="github">
+  <diagram id="LxV9aRTExk1Ln-IsxZXO" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-2" value="Comedor&lt;br style=&quot;font-size: 13px;&quot;&gt;295 x 530" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="295" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-3" value="Cocina&lt;br style=&quot;font-size: 13px;&quot;&gt;155 x 405" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=30;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="235" y="285" width="155" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-4" value="Lavadero&lt;br style=&quot;font-size: 13px;&quot;&gt;155 x 110" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="235" y="175" width="155" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-5" value="Pasillo&lt;br style=&quot;font-size: 13px;&quot;&gt;80 x 100" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="685" y="525" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-6" value="Dormitorio&lt;br style=&quot;font-size: 13px;&quot;&gt;300 x 300" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="685" y="225" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-7" value="Baño&lt;br&gt;210 x 150" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=30;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="765" y="540" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-8" value="Armario&lt;br style=&quot;font-size: 13px;&quot;&gt;220 x 65" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="765" y="460" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-11" value="Vacio&lt;br style=&quot;font-size: 13px;&quot;&gt;200" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="235" y="490" width="55" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-12" value="Horno&lt;br style=&quot;font-size: 13px;&quot;&gt;+&lt;br style=&quot;font-size: 13px;&quot;&gt;Mesada&lt;br style=&quot;font-size: 13px;&quot;&gt;205" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="235" y="285" width="55" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-17" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Balcon&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;270 x 125 / 90&lt;/span&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=33;flipH=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="402" y="35" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-18" value="Armario" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="685" y="625" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-19" value="Bañadera&lt;br&gt;75" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="900" y="540" width="75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-20" value="Dormitorio&lt;br style=&quot;font-size: 13px;&quot;&gt;300 x 300" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="685" y="460" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-22" value="Vacio&lt;br&gt;185 x 65" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="500" y="625" width="185" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=1;fontSize=13;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="399" y="594" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=1;fontSize=13;direction=south;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="594" width="95" height="95" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
