@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T20:53:56.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xvX4aNPrq4XBSDW-h-Er" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T20:54:49.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="e3QZmrDIa_8oZsSyp_Iw" version="13.10.1" type="github">
   <diagram id="LxV9aRTExk1Ln-IsxZXO" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="685" y="525" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FXQ6RrAZ3_dPyshCxXOV-6" value="Dormitorio&lt;br style=&quot;font-size: 13px;&quot;&gt;300 x 300" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="685" y="225" width="300" height="300" as="geometry" />
+          <mxGeometry x="685" y="160" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FXQ6RrAZ3_dPyshCxXOV-7" value="Baño&lt;br&gt;210 x 150" style="rounded=0;whiteSpace=wrap;html=1;spacingRight=30;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="765" y="540" width="210" height="150" as="geometry" />
@@ -43,16 +43,16 @@
         <mxCell id="FXQ6RrAZ3_dPyshCxXOV-19" value="Bañadera&lt;br&gt;75" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="900" y="540" width="75" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-20" value="Dormitorio&lt;br style=&quot;font-size: 13px;&quot;&gt;300 x 300" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-20" value="Pasillo&lt;br style=&quot;font-size: 13px&quot;&gt;80 x 65" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="685" y="460" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="FXQ6RrAZ3_dPyshCxXOV-22" value="Vacio&lt;br&gt;185 x 65" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="500" y="625" width="185" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=1;fontSize=13;direction=west;" vertex="1" parent="1">
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=2;fontSize=13;direction=west;" vertex="1" parent="1">
           <mxGeometry x="399" y="594" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=1;fontSize=13;direction=south;flipV=1;" vertex="1" parent="1">
+        <mxCell id="FXQ6RrAZ3_dPyshCxXOV-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;strokeWidth=2;fontSize=13;direction=south;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="594" width="95" height="95" as="geometry" />
         </mxCell>
       </root>
