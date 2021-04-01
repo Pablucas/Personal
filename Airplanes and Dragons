@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T23:46:47.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9zCXw6MSm_T10eJ3C2w6" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T23:53:59.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Z_L3eTjcePFxWUofvPZn" version="14.5.3" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
     <mxGraphModel dx="598" dy="318" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -928,7 +928,7 @@
         <mxCell id="TXkN0KI4rHd3irkN2mPL-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="460" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-38" value="Maniobra Evasiva" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-38" value="R2D2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1210" y="460" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-39" value="+ : Recupera 4 puntos de impacto&lt;br&gt;&lt;br&gt;- : maximo 2 cartas de movimiento en el proximo turno" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
