@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T00:01:45.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="X4Tf_ZW1avVVPRRmezrK" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T00:04:30.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="93teQJgCSXS2uQLRLcQW" version="14.5.3" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
     <mxGraphModel dx="695" dy="369" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -847,8 +847,8 @@
         <mxCell id="dI6zli2rl0yx69FCtcNp-299" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=1;strokeColor=#b85450;rotation=-135;" parent="dI6zli2rl0yx69FCtcNp-293" vertex="1">
           <mxGeometry x="-2" y="27" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="60" width="20" height="35" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="60" width="10" height="180" as="geometry" />
@@ -857,16 +857,16 @@
           <mxGeometry x="1310" y="60" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-2" value="Empujon Extra" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="60" width="80" height="35" as="geometry" />
+          <mxGeometry x="1210" y="60" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-7" value="+ : Añade una carta mas de movimiento, o sube baja, etc," style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="115" width="100" height="125" as="geometry" />
+          <mxGeometry x="1210" y="95" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="1340" y="60" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-15" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="60" width="20" height="35" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-15" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="60" width="10" height="180" as="geometry" />
@@ -875,16 +875,16 @@
           <mxGeometry x="1450" y="60" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-20" value="Maniobra Tactica" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="60" width="80" height="35" as="geometry" />
+          <mxGeometry x="1350" y="60" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-21" value="+ : Reemplaza una carta de movimiento luego de que todos hayan declarado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="115" width="100" height="125" as="geometry" />
+          <mxGeometry x="1350" y="95" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="1200" y="260" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-23" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="260" width="20" height="35" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-23" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="260" width="10" height="180" as="geometry" />
@@ -893,16 +893,16 @@
           <mxGeometry x="1310" y="260" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-26" value="Dakka Dakka Dakka" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="260" width="80" height="35" as="geometry" />
+          <mxGeometry x="1210" y="260" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-27" value="+ : Repite cualquier cantidad de 1s en la tirada de ataque&lt;br&gt;&lt;br&gt;- : Como minimo una de las cartas de movimiento debe ser recta" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="315" width="100" height="125" as="geometry" />
+          <mxGeometry x="1210" y="295" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="1340" y="260" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-29" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="260" width="20" height="35" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-29" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="420" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="260" width="10" height="180" as="geometry" />
@@ -911,16 +911,13 @@
           <mxGeometry x="1450" y="260" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-32" value="Maniobra Evasiva" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="260" width="80" height="35" as="geometry" />
+          <mxGeometry x="1350" y="260" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-33" value="+ : Todo resultado de 6s en los ataques recibidos debe ser repetido. Cual quier exito en esta nueva tirada sera critico&lt;br&gt;&lt;br&gt;- : No puede haber movimiento recto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="315" width="100" height="125" as="geometry" />
+          <mxGeometry x="1350" y="295" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="1200" y="460" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-35" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="460" width="20" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="460" width="10" height="180" as="geometry" />
@@ -932,7 +929,7 @@
           <mxGeometry x="1210" y="460" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-39" value="+ : Recupera 4 puntos de impacto&lt;br&gt;&lt;br&gt;- : maximo 2 cartas de movimiento en el proximo turno" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="515" width="100" height="125" as="geometry" />
+          <mxGeometry x="1210" y="495" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-40" value="IDEAS&lt;br&gt;&lt;br&gt;- Recuperacion de 2 turnos o mas (girando las cartas)&lt;br&gt;&lt;br&gt;- Costo adicional para reducir la recuperacion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="995" y="60" width="120" height="195" as="geometry" />
@@ -940,8 +937,8 @@
         <mxCell id="TXkN0KI4rHd3irkN2mPL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="1340" y="460" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-54" value="n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="460" width="20" height="35" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-54" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="620" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="460" width="10" height="180" as="geometry" />
@@ -953,7 +950,28 @@
           <mxGeometry x="1350" y="460" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-58" value="+ : Reduce en 1 el tiempo de recuperacion de la siguiente&amp;nbsp; carta de habilidad&lt;br&gt;&lt;br&gt;- : El coste de esta abilidad es igual a la mitad hacia arriba de la carta beneficiada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="515" width="100" height="125" as="geometry" />
+          <mxGeometry x="1350" y="495" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-59" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-61" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-62" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-63" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-64" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-65" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-67" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="620" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
