@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-03T00:20:25.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3mX7f6mtevb_0eP3zY-D" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T22:10:27.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="70I6P0o5U3m6qdexa8O0" version="14.5.3" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="831" dy="441" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="997" dy="529" grid="1" gridSize="5" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,6 +993,48 @@
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-74" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="1540" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="260" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-76" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="260" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="260" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-79" value="Granada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="260" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-80" value="+ : n daño automatico al costado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="295" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-81" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="460" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-83" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="460" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="460" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-86" value="Versatil" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="460" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-87" value="+ : Elimina el efecto negativo de la siguiente carta&lt;br&gt;&lt;br&gt;- : El coste de esta abilidad es igual a la mitad hacia arriba de la carta beneficiada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="495" width="100" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-88" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="620" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
