@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T03:12:01.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="FPXOg9_f-oKt0M0hPuAI" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T03:16:20.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="dHzx1wgwwpTTzVt9q8-u" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
     <mxGraphModel dx="3523" dy="1489" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -979,7 +979,7 @@
         <mxCell id="TXkN0KI4rHd3irkN2mPL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1200.78" y="-295.27000000000004" width="236.22" height="354.33" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1220.465" y="19.68999999999994" width="98.425" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
@@ -988,13 +988,13 @@
         <mxCell id="TXkN0KI4rHd3irkN2mPL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1417.315" y="-295.27000000000004" width="19.685" height="354.33" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-2" value="Empujon Extra" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-2" value="A toda maquina" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1220.465" y="-295.27000000000004" width="196.85" height="68.8975" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-7" value="+ : Añade una carta mas de movimiento, o sube baja, etc," style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1220.465" y="-226.37250000000006" width="196.85" height="246.0625" as="geometry" />
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-7" value="+ : añade una carta adicional de movimiento&lt;br style=&quot;font-size: 15px;&quot;&gt;o&lt;br style=&quot;font-size: 15px;&quot;&gt;obten la misma bonificacion de descenzo de altura&lt;br style=&quot;font-size: 15px;&quot;&gt;o&lt;br style=&quot;font-size: 15px;&quot;&gt;sube de altura" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="1220.46" y="-226.37" width="196.85" height="206.69" as="geometry" />
         </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-59" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-59" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1318.8899999999999" y="19.68999999999994" width="98.425" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-294" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1038,6 +1038,9 @@
               <mxPoint x="118.18999999999994" y="235.74" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-297" value="Habilidad de Movimiento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1220.47" y="-19.69" width="196.85" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
