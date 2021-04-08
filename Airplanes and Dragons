@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T03:16:20.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="dHzx1wgwwpTTzVt9q8-u" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T03:54:40.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="TnhE_rYwrUi1X3JhGbey" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="3523" dy="1489" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4011" dy="1761" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,32 +784,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-273" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1577" y="98.42999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-15" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-20" value="Maniobra Tactica" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-21" value="+ : Reemplaza una carta de movimiento luego de que todos hayan declarado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-61" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-273" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-274" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1437" y="298.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1181.1" y="78.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -833,7 +809,7 @@
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-275" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1437" y="498.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1181.1" y="278.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -857,7 +833,7 @@
           <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-276" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1577" y="298.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1321.1" y="78.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -881,7 +857,7 @@
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-277" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1577" y="498.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1321.1" y="278.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -905,7 +881,7 @@
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-278" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1717" y="498.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1461.1" y="278.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -929,7 +905,7 @@
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-279" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1717" y="298.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1461.1" y="78.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -953,7 +929,7 @@
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-280" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1857" y="298.42999999999995" width="120" height="180" as="geometry" />
+          <mxGeometry x="1601.1" y="78.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
           <mxGeometry width="120" height="180" as="geometry" />
@@ -975,27 +951,6 @@
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-81" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1200.78" y="-295.27000000000004" width="236.22" height="354.33" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1220.465" y="19.68999999999994" width="98.425" height="39.37" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1200.78" y="-295.27000000000004" width="19.685" height="354.33" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1417.315" y="-295.27000000000004" width="19.685" height="354.33" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-2" value="A toda maquina" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1220.465" y="-295.27000000000004" width="196.85" height="68.8975" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-7" value="+ : añade una carta adicional de movimiento&lt;br style=&quot;font-size: 15px;&quot;&gt;o&lt;br style=&quot;font-size: 15px;&quot;&gt;obten la misma bonificacion de descenzo de altura&lt;br style=&quot;font-size: 15px;&quot;&gt;o&lt;br style=&quot;font-size: 15px;&quot;&gt;sube de altura" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1220.46" y="-226.37" width="196.85" height="206.69" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-59" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1318.8899999999999" y="19.68999999999994" width="98.425" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-294" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="255.90499999999997" y="-78.73500000000001" width="236.22000000000008" height="354.33" as="geometry" />
@@ -1039,8 +994,86 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-297" value="Habilidad de Movimiento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1220.47" y="-19.69" width="196.85" height="39.37" as="geometry" />
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-314" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1181.1" y="-826.77" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-3" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-2" value="A toda maquina" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-7" value="+ : añade una carta adicional de movimiento&lt;br style=&quot;font-size: 15px&quot;&gt;o&lt;br style=&quot;font-size: 15px&quot;&gt;elegir una o mas cartas con el simbolo &#39;+&#39;&lt;br style=&quot;font-size: 15px&quot;&gt;o&lt;br style=&quot;font-size: 15px&quot;&gt;sube de altura" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="TXkN0KI4rHd3irkN2mPL-59" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" parent="92YVp1YPM6BLTI4Nb1H_-314" vertex="1">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-297" value="Habilidad de Movimiento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-314">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-315" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1437.0049999999999" y="-826.765" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-316" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-317" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-318" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-319" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-320" value="Maniobra Tactica" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-321" value="+ : reemplaza una carta de movimiento propia luego de que todas las unidades hayan declarado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-322" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-323" value="Habilidad de Movimiento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-315">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-324" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1181.1049999999998" y="-452.7550000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-325" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-326" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-327" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-328" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-329" value="Foco Agresivo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-330" value="&lt;div&gt;+ : +1 a las tiradas de&amp;nbsp; ataque&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : Como minimo una de las cartas de movimiento utilizada debe ser recta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-331" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-332" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
