@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T03:54:40.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="TnhE_rYwrUi1X3JhGbey" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T04:07:05.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3jCc5W4CZcWo_s0__hD3" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="4011" dy="1761" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3760" dy="1621" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,30 +784,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-274" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1181.1" y="78.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-23" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-26" value="Balas Trazantes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-27" value="+ : +1 al ataque&lt;br&gt;&lt;br&gt;- : Como minimo una de las cartas de movimiento debe ser recta" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-62" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-274" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-275" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1181.1" y="278.73999999999995" width="120" height="180" as="geometry" />
         </mxCell>
@@ -831,30 +807,6 @@
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-67" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
           <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-276" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1321.1" y="78.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-29" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-32" value="Maniobra Evasiva" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-33" value="+ : -1 a toda tirada contra esta unidad en la fase de ataque&lt;br&gt;&lt;br&gt;- : No puede haber movimiento recto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-63" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-276" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-277" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1321.1" y="278.73999999999995" width="120" height="180" as="geometry" />
@@ -902,54 +854,6 @@
           <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
         </mxCell>
         <mxCell id="TXkN0KI4rHd3irkN2mPL-88" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-279" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1461.1" y="78.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-69" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-72" value="Mas Alcance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-73" value="+ : incrementa el alcance en 1 carta&lt;br&gt;&lt;br&gt;- : 1 dado menos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-74" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-279" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-280" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1601.1" y="78.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-76" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-79" value="Granada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-80" value="+ : n daño automatico al costado" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-81" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-280" vertex="1">
           <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-294" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1063,7 +967,7 @@
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-328" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
           <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-329" value="Foco Agresivo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-329" value="Sed de Sangre" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
           <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-330" value="&lt;div&gt;+ : +1 a las tiradas de&amp;nbsp; ataque&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : Como minimo una de las cartas de movimiento utilizada debe ser recta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
@@ -1072,7 +976,115 @@
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-331" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
           <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-332" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-332" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-324">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-333" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1437.0099999999998" y="-452.7500000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-334" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-335" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-336" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-337" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-338" value="Maniobras Evasivas" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-339" value="&lt;div&gt;+ : -1 a toda tirada de ataque contra esta unidad&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : ninguna carta de movimiento utilizada puede ser recta&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-340" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-341" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-333">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-342" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1692.9149999999997" y="-452.7550000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-343" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-344" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-345" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-346" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-347" value="Cortina de Humo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-348" value="&lt;div&gt;+ : -2 a toda tirada contra esta unidad desde atacantes en el arco trasero de esta unidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-349" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-350" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-342">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-351" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1948.8199999999997" y="-452.7500000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-352" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-353" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-354" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-355" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-356" value="Rafagas Precisas" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-357" value="&lt;div&gt;+ : incrementa el alcance de las armas en 1 carta&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : -1 al ataque (1 dado menos)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-358" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-359" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-351">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-360" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2204.7249999999995" y="-452.7550000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-361" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-362" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-363" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-364" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-365" value="Granada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-366" value="&lt;div style=&quot;font-size: 15px&quot;&gt;+ : 4 de daño automatico a una unidad en arco estrecho lateral.&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;Esta habilidad puede elegirse y utilizarse luego de la fase de movimiento&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;- : tirar 1d6. Con 3- la unidad propia recibe 4 de daño automatico&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;asdasdasda&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-367" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-368" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
         </mxCell>
       </root>
