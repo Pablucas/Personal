@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T04:09:22.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jocwdwZrb_IZdqOsLI8j" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T23:44:58.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="9aPUqw5dWRSk_v8iQ5FR" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="3835" dy="1663" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5893" dy="2812" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,78 +784,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-275" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1181.1" y="278.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-38" value="Reparaciones en Vuelo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-39" value="+ : Recupera 4 puntos de impacto&lt;br&gt;&lt;br&gt;- : maximo 2 cartas de movimiento en el proximo turno" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-64" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-67" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-275" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-277" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1321.1" y="278.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-54" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-57" value="Ingenioso" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-58" value="+ : Reduce en 1 el tiempo de recuperacion de la siguiente&amp;nbsp; carta de habilidad&lt;br&gt;&lt;br&gt;- : El coste de esta abilidad es igual a la mitad hacia arriba de la carta beneficiada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-65" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-277" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-278" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1461.1" y="278.73999999999995" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-83" value="C: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="10" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="110" width="10" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-86" value="Versatil" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="10" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-87" value="+ : Elimina el efecto negativo de la siguiente carta&lt;br&gt;&lt;br&gt;- : El coste de esta abilidad es igual a la mitad hacia arriba de la carta beneficiada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="10" y="35" width="100" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="TXkN0KI4rHd3irkN2mPL-88" value="R: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=10;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-278" vertex="1">
-          <mxGeometry x="60" y="160" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-294" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="255.90499999999997" y="-78.73500000000001" width="236.22000000000008" height="354.33" as="geometry" />
         </mxCell>
@@ -1078,13 +1006,121 @@
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-365" value="Granada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-366" value="&lt;div style=&quot;font-size: 14px&quot;&gt;+ : 4 de daño automatico a una unidad en arco estrecho lateral.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Puede elegirse y utilizarse luego de la fase de movimiento&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;- : tirar 1d6. Con 3- la unidad propia recibe 4 de daño automatico&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-366" value="&lt;div style=&quot;font-size: 14px&quot;&gt;+ : 4 de daño automatico a una unidad en arco estrecho lateral en rango 2.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Puede elegirse y utilizarse luego de la fase de movimiento&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;- : tirar 1d6. Con 3- la unidad propia recibe 4 de daño automatico&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-367" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-368" value="Habilidad de Combate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-369" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1181.0999999999997" y="-78.74000000000012" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-370" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-371" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-372" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-373" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-374" value="Reparaciones en Vuelo" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-375" value="&lt;div&gt;&lt;div&gt;+ : recupera M:4/P:6 puntos de impacto en la fase final&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : maximo 2 cartas de movimiento en el proximo turno&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-376" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-377" value="Habilidad de Soporte" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-369">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-378" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1437.0049999999997" y="-78.73500000000013" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-379" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-380" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-381" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-382" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-383" value="Rapida Recuperacion" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-384" value="&lt;div&gt;+ : Reduce en 1 el tiempo de recuperacion de la siguiente&amp;nbsp; carta de habilidad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : El coste de esta abilidad es igual a la mitad hacia arriba de la carta beneficiada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-385" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-386" value="Habilidad de Soporte" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-378">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-387" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1692.9099999999996" y="-78.74000000000012" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-388" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-389" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-390" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-391" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-392" value="Versatilidad" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-393" value="&lt;div&gt;+ : Elimina el efecto negativo de la siguiente carta&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- : El coste de la habilidad es igual a la mitad hacia arriba de la carta beneficiada&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-394" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-395" value="Habilidad de Soporte" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-387">
+          <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-396" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1692.9099999999999" y="-826.7700000000001" width="236.22000000000003" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-397" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Georgia;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry width="236.22" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-398" value="Costo: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry x="19.684999999999945" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-399" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-400" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#4D4D4D;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry x="216.53500000000008" width="19.685" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-401" value="Maniobra Tactica" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-402" value="+: luego de que todas las unidades hayan declarado sus cartas, elimina la ultima carta de movimiento de una unidad en arco lateral estrecho o trasero&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-403" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+          <mxGeometry x="118.1099999999999" y="314.9599999999999" width="98.425" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-404" value="Habilidad de Movimiento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
           <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
         </mxCell>
       </root>
