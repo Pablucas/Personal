@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T23:48:14.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="LCXAKgjElk1O_PJLZ1VI" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T00:01:50.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YTMm66Tmp74WmdE1p5OK" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="4692" dy="1489" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4929" dy="1621" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -955,7 +955,7 @@
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-365" value="Granada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-366" value="&lt;div style=&quot;font-size: 14px&quot;&gt;+ : 4 de daño automatico a una unidad en arco estrecho lateral en rango 1.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Puede elegirse y utilizarse luego de la fase de movimiento&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;- : tirar 1d6. Con 3- la unidad propia recibe 4 de daño automatico&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-366" value="&lt;div style=&quot;font-size: 14px&quot;&gt;+ : 4 de daño automatico a una unidad en arco estrecho lateral en rango 1.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Puede elegirse y utilizarse luego de la fase de movimiento&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;- : tirar 1d6. Con 3- la unidad propia recibe 4 de daño automatico&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;-1 a las tiradas de ataque normales de esta unidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;fontStyle=0" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
           <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-367" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-360">
@@ -1063,7 +1063,7 @@
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-401" value="Enganchar" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Georgia;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
           <mxGeometry x="19.684999999999945" width="196.85" height="68.8975" as="geometry" />
         </mxCell>
-        <mxCell id="92YVp1YPM6BLTI4Nb1H_-402" value="+: luego de que todas las unidades hayan declarado sus cartas, elimina la ultima carta de movimiento de una unidad en arco lateral estrecho o trasero estrecho&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
+        <mxCell id="92YVp1YPM6BLTI4Nb1H_-402" value="+: luego de que todas las unidades hayan declarado sus cartas, elimina la ultima carta de movimiento de una unidad en arco lateral o posterior estrecho&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacing=10;fontFamily=Georgia;gradientColor=#ffffff;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
           <mxGeometry x="19.680000000000064" y="68.89999999999998" width="196.85" height="206.69" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-403" value="Req: n" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacing=10;fontFamily=Georgia;fillColor=#E6E6E6;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-396">
@@ -1073,7 +1073,7 @@
           <mxGeometry x="19.690000000000055" y="275.5799999999999" width="196.85" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-405" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="-2007.875" y="-787.3949999999999" width="236.22" height="354.33" as="geometry" />
+          <mxGeometry x="-2007.865" y="-787.3949999999999" width="236.22" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-408" value="" style="group;fontFamily=Georgia;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1437.0050000000003" y="-433.06499999999994" width="196.85" height="196.85" as="geometry" />
