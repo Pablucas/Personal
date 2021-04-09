@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T17:02:31.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="UpMgi--96rBQSWXsLIuB" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T17:04:19.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="hSnSUgrOf5cXsnB-7V3T" version="14.5.8" type="github">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Page-1">
-    <mxGraphModel dx="6351" dy="2415" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4929" dy="1621" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
             <mxPoint x="118.11" y="354.33" as="sourcePoint" />
             <mxPoint x="118.11" y="118.11" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TFiL4w-Ev814OWsfVTz8-364" value="Recta Media" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Georgia;fontStyle=1;fillColor=none;align=center;strokeColor=none;direction=south;horizontal=0;" vertex="1" parent="dI6zli2rl0yx69FCtcNp-73">
+          <mxGeometry width="59.06" height="196.85" as="geometry" />
         </mxCell>
         <mxCell id="dI6zli2rl0yx69FCtcNp-102" value="" style="group;fontFamily=Georgia;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2106.3" y="-433.06999999999994" width="196.85" height="196.85" as="geometry" />
@@ -711,6 +714,9 @@
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-266" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#000000;fontFamily=Georgia;" parent="92YVp1YPM6BLTI4Nb1H_-262" vertex="1">
           <mxGeometry x="232.346" y="236.22000000000003" width="3.937" height="78.74000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="TFiL4w-Ev814OWsfVTz8-365" value="Curva Cerrada" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Georgia;fontStyle=1;fillColor=none;align=center;strokeColor=none;direction=south;horizontal=0;" vertex="1" parent="92YVp1YPM6BLTI4Nb1H_-262">
+          <mxGeometry x="-2.842170943040401e-14" y="1.1723955140041653e-13" width="59.06" height="196.85" as="geometry" />
         </mxCell>
         <mxCell id="92YVp1YPM6BLTI4Nb1H_-267" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="511.80699999999996" y="-826.77" width="236.223" height="354.33" as="geometry" />
