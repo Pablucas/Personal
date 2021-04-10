@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T21:56:27.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="MP4nD-3rvXpF30xsX1M8" version="14.5.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-10T21:57:17.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="75eKz2EESO0vbuKkCZaR" version="14.5.10" type="github" pages="2">
   <diagram id="eWH7HVh9g0jEUWWpQEYF" name="Cartas">
     <mxGraphModel dx="2842" dy="3415" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1522,7 +1522,7 @@
         <mxCell id="iyK1hPrRrkdvCgty4QzO-132" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1889.7649999999994" y="-748.0250000000005" width="236.49500000000035" height="354.33" as="geometry" />
         </mxCell>
-        <mxCell id="iyK1hPrRrkdvCgty4QzO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#88A4B5;fontSize=12;fontFamily=Georgia;gradientColor=#ffffff;gradientDirection=south;sketch=0;" vertex="1" parent="iyK1hPrRrkdvCgty4QzO-132">
+        <mxCell id="iyK1hPrRrkdvCgty4QzO-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#88A4B5;fontSize=12;fontFamily=Georgia;gradientColor=#ffffff;gradientDirection=south;sketch=0;glass=0;" vertex="1" parent="iyK1hPrRrkdvCgty4QzO-132">
           <mxGeometry width="236.22" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="iyK1hPrRrkdvCgty4QzO-120" value="L M P" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=5;fontFamily=Georgia;" vertex="1" parent="iyK1hPrRrkdvCgty4QzO-132">
