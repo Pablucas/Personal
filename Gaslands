@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T17:00:26.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Ja1mf8Y0AXMSEtkXt5a7" version="18.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-29T17:02:47.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="rctKjYXGPeY_hrsMw535" version="18.1.3" type="github" pages="4">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
     <mxGraphModel dx="1635" dy="902" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -996,7 +996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tigqT1a5W3K9lU8C-ILU" name="Diseños Autos">
-    <mxGraphModel dx="674" dy="793" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="1322" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1336,6 +1336,30 @@
         </mxCell>
         <mxCell id="8g-Rqn61r5peGHzG6tTO-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240.155" y="905.505" width="19.68" height="59.06" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-143" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="78.74" y="1023.62" width="236.22" height="392.44" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-145" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137.79" y="1181.1" width="157.48" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-146" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="59.05499999999999" y="1081.42" width="275.59" height="295.28" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="8g-Rqn61r5peGHzG6tTO-146">
+          <mxGeometry x="0.005000000000002558" y="236.22" width="19.68" height="59.06" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-148" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="8g-Rqn61r5peGHzG6tTO-146">
+          <mxGeometry x="255.90999999999997" y="236.215" width="19.68" height="59.06" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-149" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="8g-Rqn61r5peGHzG6tTO-146">
+          <mxGeometry y="0.0049999999999954525" width="19.68" height="59.06" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="8g-Rqn61r5peGHzG6tTO-146">
+          <mxGeometry x="255.90499999999997" width="19.68" height="59.06" as="geometry" />
+        </mxCell>
+        <mxCell id="8g-Rqn61r5peGHzG6tTO-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236.22" y="1023.62" width="39.37" height="392.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
