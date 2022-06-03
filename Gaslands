@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T00:11:46.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="DL3xWz2pcqQcCOoaCQd6" version="18.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-03T00:24:36.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="4DqWRabl4n42tiAXJbbG" version="18.1.3" type="github" pages="4">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1495,6 +1495,9 @@
         </mxCell>
         <mxCell id="bl8Usm2UGKWqYqCuQEVh-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" vertex="1" parent="bl8Usm2UGKWqYqCuQEVh-42">
           <mxGeometry x="255.90499999999997" width="19.68" height="59.31001693308046" as="geometry" />
+        </mxCell>
+        <mxCell id="bl8Usm2UGKWqYqCuQEVh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bl8Usm2UGKWqYqCuQEVh-46" target="bl8Usm2UGKWqYqCuQEVh-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
