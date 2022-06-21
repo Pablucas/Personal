@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T02:01:28.725Z" agent="5.0 (Windows)" etag="cIACcju40NwQ1DhXGRg-" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T02:01:53.605Z" agent="5.0 (Windows)" etag="LPFtmbOH2gIWfgoOAL_h" version="17.4.6" type="github" pages="5">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
     <mxGraphModel dx="1198" dy="641" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1503,7 +1503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KBA8OGcU25Albr77oWij" name="Cardboard Car">
-    <mxGraphModel dx="572" dy="516" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="427" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
