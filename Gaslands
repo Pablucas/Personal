@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:28:59.006Z" agent="5.0 (Windows)" etag="c5W_PKJNOneXM5DgJmG-" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:33:59.420Z" agent="5.0 (Windows)" etag="6IQdf-GkRJzkEWvTsKQD" version="17.4.6" type="github" pages="5">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
     <mxGraphModel dx="1198" dy="641" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1503,7 +1503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KBA8OGcU25Albr77oWij" name="Cardboard Car">
-    <mxGraphModel dx="490" dy="356" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1674,6 +1674,33 @@
         </mxCell>
         <mxCell id="kgHm0e3PxhvbY07eIcjj-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;strokeWidth=1;direction=east;flipH=1;flipV=0;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-43">
           <mxGeometry x="437.31" y="179" width="10" height="68.9" as="geometry" />
+        </mxCell>
+        <object label="simbols" id="kgHm0e3PxhvbY07eIcjj-61">
+          <mxCell parent="0" />
+        </object>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="kgHm0e3PxhvbY07eIcjj-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="341" as="sourcePoint" />
+            <mxPoint x="193" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-71" value="" style="group" vertex="1" connectable="0" parent="kgHm0e3PxhvbY07eIcjj-61">
+          <mxGeometry x="382.5538618074057" y="346.74386180740566" width="16.703276385188587" height="16.703276385188587" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;strokeWidth=1;fillColor=#B3B3B3;gradientColor=none;rotation=45;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-71">
+          <mxGeometry x="2.446138192594276" y="2.446138192594333" width="11.811" height="11.811" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=1;rotation=89;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-71">
+          <mxGeometry x="8.31613819259428" y="12.256138192594335" width="3.937" height="3.937" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-72" value="" style="group" vertex="1" connectable="0" parent="kgHm0e3PxhvbY07eIcjj-61">
+          <mxGeometry x="383.0038618074057" y="170.00386180740566" width="16.703276385188587" height="16.703276385188587" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;strokeWidth=1;fillColor=#B3B3B3;gradientColor=none;rotation=45;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-72">
+          <mxGeometry x="2.446138192594276" y="2.446138192594333" width="11.811" height="11.811" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-74" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=1;rotation=89;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-72">
+          <mxGeometry x="8.31613819259428" y="12.256138192594335" width="3.937" height="3.937" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
