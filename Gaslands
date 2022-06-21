@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T01:42:43.313Z" agent="5.0 (Windows)" etag="d3qmDbMEo4sPTiO2GaoE" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-21T01:44:27.925Z" agent="5.0 (Windows)" etag="XapfDXG6nK5hpLVJ3a6L" version="17.4.6" type="github" pages="5">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
     <mxGraphModel dx="1198" dy="641" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1503,7 +1503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KBA8OGcU25Albr77oWij" name="Cardboard Car">
-    <mxGraphModel dx="348" dy="254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1815,6 +1815,12 @@
             <mxPoint x="481" y="342" as="sourcePoint" />
             <mxPoint x="491" y="331.99999999999994" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;strokeColor=#00CC00;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-61">
+          <mxGeometry x="333" y="277" width="11.811" height="11.83" as="geometry" />
+        </mxCell>
+        <mxCell id="kgHm0e3PxhvbY07eIcjj-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;strokeColor=#00CC00;" vertex="1" parent="kgHm0e3PxhvbY07eIcjj-61">
+          <mxGeometry x="442" y="277" width="11.811" height="11.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
