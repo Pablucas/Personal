@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T00:01:22.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tMWTZnZ6XrfEHZqzlTwX" version="20.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-26T00:19:21.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VDdqwCYxDgITgMqfhUvq" version="20.0.2" type="github" pages="5">
   <diagram id="6LaFyTHzDKh2p3a0v_pG" name="Contador Diseño">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="0" gridSize="19.685" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,7 +428,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5rWWrGCnVWERL8yZ-ZBi" name="Contador Impresion">
-    <mxGraphModel dx="1198" dy="-528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,7 +892,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oMSewY9pv2GzbRbq1IhT" name="Contador Coches">
-    <mxGraphModel dx="1198" dy="-528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -996,7 +996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tigqT1a5W3K9lU8C-ILU" name="Diseños Autos">
-    <mxGraphModel dx="2111" dy="916" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1134" grid="1" gridSize="19.685" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1495,9 +1495,6 @@
         </mxCell>
         <mxCell id="bl8Usm2UGKWqYqCuQEVh-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeWidth=2;" parent="bl8Usm2UGKWqYqCuQEVh-42" vertex="1">
           <mxGeometry x="255.90499999999997" width="19.68" height="59.31001693308046" as="geometry" />
-        </mxCell>
-        <mxCell id="bl8Usm2UGKWqYqCuQEVh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bl8Usm2UGKWqYqCuQEVh-46" target="bl8Usm2UGKWqYqCuQEVh-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
