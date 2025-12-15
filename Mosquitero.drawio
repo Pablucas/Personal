@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Página-1" id="L7wIpYkwle-pxp4eMSPy">
-    <mxGraphModel dx="1426" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kRUHItWQheoEBvXUSvBq-0" />
         <mxCell id="kRUHItWQheoEBvXUSvBq-1" parent="kRUHItWQheoEBvXUSvBq-0" />
@@ -45,20 +45,26 @@
         <mxCell id="kRUHItWQheoEBvXUSvBq-4" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="130x160" vertex="1">
           <mxGeometry height="160" width="130" x="630" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="kRUHItWQheoEBvXUSvBq-5" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ventana Pieza" vertex="1">
-          <mxGeometry height="110" width="140" x="80" y="200" as="geometry" />
+        <mxCell id="kRUHItWQheoEBvXUSvBq-5" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Ventana Pieza" vertex="1">
+          <mxGeometry height="140" width="110" x="770" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="kRUHItWQheoEBvXUSvBq-6" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ventana Pieza" vertex="1">
-          <mxGeometry height="110" width="140" x="240" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="kRUHItWQheoEBvXUSvBq-7" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cocina" vertex="1">
-          <mxGeometry height="105" width="130" x="80" y="360" as="geometry" />
+        <mxCell id="kRUHItWQheoEBvXUSvBq-7" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Cocina" vertex="1">
+          <mxGeometry height="130" width="105" x="610" y="200" as="geometry" />
         </mxCell>
         <mxCell id="kRUHItWQheoEBvXUSvBq-8" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cocina" vertex="1">
-          <mxGeometry height="70" width="100" x="240" y="360" as="geometry" />
+          <mxGeometry height="70" width="100" x="610" y="330" as="geometry" />
         </mxCell>
         <mxCell id="kRUHItWQheoEBvXUSvBq-9" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Living" vertex="1">
-          <mxGeometry height="200" width="90" x="240" y="440" as="geometry" />
+          <mxGeometry height="200" width="90" x="520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bqRgzPYIlNGdF000xexl-0" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Living" vertex="1">
+          <mxGeometry height="200" width="90" x="510" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="bqRgzPYIlNGdF000xexl-1" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;200x200&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="510" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="kRUHItWQheoEBvXUSvBq-6" parent="kRUHItWQheoEBvXUSvBq-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Ventana Pieza" vertex="1">
+          <mxGeometry height="140" width="110" x="640" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
